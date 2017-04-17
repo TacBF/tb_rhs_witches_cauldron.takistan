@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Fields_of_Thunder">
+
+	<Key ID="STR_TB_missionTitle_TB_Fields_of_Thunder">
+		<Original>OP Sideshow</Original>
+		<English>OP Sideshow</English>
+		<German>OP Sideshow</German>
+		<Italian>OP Sideshow</Italian>
+		<Spanish>OP Sideshow</Spanish>
+		<French>OP Sideshow</French>
+		<Czech>OP Sideshow</Czech>
+		<Russian>OP Sideshow</Russian>
+		<Polish>OP Sideshow</Polish>
+		<Hungarian>OP Sideshow</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Fields_of_Thunder">
+		<Original>TacBF A&amp;S[T-10]: OP Sideshow</Original>
+		<English>TacBF A&amp;S[T-10]: OP Sideshow</English>
+		<German>TacBF A&amp;S[T-10]: OP Sideshow</German>
+		<Italian>TacBF A&amp;S[T-10]: OP Sideshow</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: OP Sideshow</Spanish>
+		<French>TacBF A&amp;S[T-10]: OP Sideshow</French>
+		<Czech>TacBF A&amp;S[T-10]: OP Sideshow</Czech>
+		<Russian>TacBF A&amp;S[T-10]: OP Sideshow</Russian>
+		<Polish>TacBF A&amp;S[T-10]: OP Sideshow</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: OP Sideshow</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>

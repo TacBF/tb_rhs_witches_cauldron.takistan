@@ -1,0 +1,13 @@
+#define TB_loadingScreen_imagePath "tb_EastVSWest_loadingScreen.jpg"
+//#define TB_loadingScreen_imagePath "\a3\ui_f\data\Logos\arma3_expansion_ca.paa"
+
+onLoadName=$STR_TB_missionTitle_TB_Fields_of_Thunder;
+overviewPicture = "tb_EastVSWest_loadingScreen.jpg";
+author="(TacBF Team)";
+onLoadMission=$STR_TB_briefingDescription_AAS;
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"
