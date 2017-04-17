@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Witches_Cauldron">
+
+	<Key ID="STR_TB_missionTitle_TB_Witches_Cauldron">
+		<Original>Witches Cauldron</Original>
+		<English>Witches Cauldron</English>
+		<German>Witches Cauldron</German>
+		<Italian>Witches Cauldron</Italian>
+		<Spanish>Witches Cauldron</Spanish>
+		<French>Witches Cauldron</French>
+		<Czech>Witches Cauldron</Czech>
+		<Russian>Witches Cauldron</Russian>
+		<Polish>Witches Cauldron</Polish>
+		<Hungarian>Witches Cauldron</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
